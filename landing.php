@@ -208,8 +208,8 @@ color: white;
                         style="height: 300px; align-items: center">
                         <img src="./images/testimonials/testimonials-1.jpg" class="testimonial-img rounded-circle mb-3"
                             alt="Saul Goodman">
-                        <h3>Saul Goodman</h3>
-                        <h4>Ceo &amp; Founder</h4>
+                        <h3>Sachira Edirisinghe</h3>
+                        <h4>Advanced Level Economics</h4>
                         <div class="stars mb-3">
                             <i class="bi bi-star-fill text-warning"></i>
                             <i class="bi bi-star-fill text-warning"></i>
@@ -219,9 +219,8 @@ color: white;
                         </div>
                         <p class="px-lg-5">
                             <i class="bi bi-quote quote-icon-left"></i>
-                            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum
-                            suscipit rhoncus.
-                            Accusantium quam, ultricies eget id, aliquam eget nibh et.
+                            "Onsty's interface is very intuitive and easy to navigate. 
+                            I love how everything is organized, making it simple to find my courses and track my progress."
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
                     </div>
@@ -232,8 +231,8 @@ color: white;
                         style="height: 300px;  align-items: center">
                         <img src="./images/testimonials/testimonials-2.jpg" class="testimonial-img rounded-circle mb-3"
                             alt="Sara Wilsson">
-                        <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
+                        <h3>Malan Pathiranage</h3>
+                        <h4>Physics</h4>
                         <div class="stars mb-3">
                             <i class="bi bi-star-fill text-warning"></i>
                             <i class="bi bi-star-fill text-warning"></i>
@@ -243,13 +242,59 @@ color: white;
                         </div>
                         <p class="px-lg-5">
                             <i class="bi bi-quote quote-icon-left"></i>
-                            Export tempor illum tamen malis malis eram quae irure esse labore quem
-                            cillum quid cillum eram
-                            malis quorum velit fore eram velit sunt aliqua noster fugiat irure.
+                            "I'm impressed by the variety of courses available on Onsty.
+                             There’s something for everyone, and I’ve already enrolled in multiple subjects that interest me."
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
                     </div>
                 </div>
+
+                <div class="carousel-item">
+                    <div class="testimonial-item text-center d-flex flex-column justify-content-center"
+                        style="height: 300px;  align-items: center">
+                        <img src="./images/testimonials/testimonials-2.jpg" class="testimonial-img rounded-circle mb-3"
+                            alt="Sara Wilsson">
+                        <h3>Indika Paranavithana</h3>
+                        <h4>Business Studies</h4>
+                        <div class="stars mb-3">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                        </div>
+                        <p class="px-lg-5">
+                            <i class="bi bi-quote quote-icon-left"></i>
+                            "Whenever I've had questions or issues, the support team at Onsty has been incredibly responsive and helpful. 
+                            It makes a huge difference in my learning experience."
+                            <i class="bi bi-quote quote-icon-right"></i>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="testimonial-item text-center d-flex flex-column justify-content-center"
+                        style="height: 300px;  align-items: center">
+                        <img src="./images/testimonials/testimonials-2.jpg" class="testimonial-img rounded-circle mb-3"
+                            alt="Sara Wilsson">
+                        <h3>Taniya Kariyawasam</h3>
+                        <h4>English</h4>
+                        <div class="stars mb-3">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                        </div>
+                        <p class="px-lg-5">
+                            <i class="bi bi-quote quote-icon-left"></i>
+                            "While the desktop experience is great, I found the mobile app could use some improvements in terms of functionality. 
+                            It sometimes lags or crashes."
+                            <i class="bi bi-quote quote-icon-right"></i>
+                        </p>
+                    </div>
+                </div>
+
 
             </div>
 
@@ -287,7 +332,7 @@ color: white;
 
                     <div class="carousel-item active col-md-2 col-md-6">
                         <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="Walter White"></div>
+                            <div class="pic"><img src="./images/my-team/Deneth.jpg" class="img-fluid" alt="Walter White"></div>
                             <div class="member-info">
                                 <h4>S.A.D.V.P. Samaranayaka </h4>
                                 <span>CEO</span>
@@ -354,7 +399,7 @@ color: white;
                     </div>
                     <div class="carousel-item col-lg-4 col-md-6">
                         <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            <div class="pic"><img src="./images/my-team/Dilmi.jpg" class="img-fluid" alt="William Anderson">
                             </div>
                             <div class="member-info">
                                 <h4>Dilmi Wikramasinghe </h4>
@@ -367,7 +412,7 @@ color: white;
                     </div>
                     <div class="carousel-item col-lg-4 col-md-6">
                         <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            <div class="pic"><img src="./images/my-team/Hansala .JPG" class="img-fluid" alt="William Anderson">
                             </div>
                             <div class="member-info">
                                 <h4>Hansala Gamage </h4>
@@ -384,7 +429,7 @@ color: white;
                             </div>
                             <div class="member-info">
                                 <h4>Dilsha Wijesinghe </h4>
-                                <span>Journier Developer </span>
+                                <span>Jurnier Developer </span>
                                 <p>Explicabo voluptatem mollitia et repellat qui dolorum
                                     quasi distinctio
                                 </p>
@@ -393,7 +438,20 @@ color: white;
                     </div>
                     <div class="carousel-item col-lg-4 col-md-6">
                         <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            <div class="pic"><img src="./images/my-team/Tharushala.jpg" class="img-fluid" alt="William Anderson">
+                            </div>
+                            <div class="member-info">
+                                <h4>Tharushala</h4>
+                                <span>Jurnier Developer </span>
+                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                    quasi distinctio
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item col-lg-4 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./images/my-team/Indika.jpg" class="img-fluid" alt="William Anderson">
                             </div>
                             <div class="member-info">
                                 <h4>Indika paranawithana </h4>
